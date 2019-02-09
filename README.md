@@ -1,1 +1,1 @@
-Przerób podane modele z użyciem Spring IoC
+Jak w zadaniu 1, przerób modele z użyciem Spring IoC, jednak bez uzycia annotacji @Bean

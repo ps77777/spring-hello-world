@@ -1,20 +1,13 @@
 package pl.edu.wszib.springhelloworld.model;
 
-public class Dziecko {
+public abstract class Dziecko {
 
-    private Ciastko ciastko;
+    protected Zabawka zabawka;
 
-    public Dziecko(Ciastko ciastko) {
-        this.ciastko = ciastko;
+    public Dziecko(Zabawka zabawka) {
+        this.zabawka = zabawka;
     }
 
-    public void ugryz() {
-        if(!this.ciastko.ugryzione()) {
-            this.ciastko.ugryz();
-            System.out.println("Yum");
-        } else {
-            System.out.println("Juz ugryzione");
-        }
-    }
+    public abstract void odpakuj();
 
 }

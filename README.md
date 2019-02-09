@@ -1,1 +1,1 @@
-# spring-hello-world
+Pomóż programistom przeżyć kolejny dzien pracy, spraw aby każdy miałswoja kawe oraz miał na czym pracować

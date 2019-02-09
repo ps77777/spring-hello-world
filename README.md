@@ -1,1 +1,1 @@
-# spring-hello-world
+Przeprowadź glosowanie na najlepsze jedzenie świata

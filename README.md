@@ -1,1 +1,1 @@
-# spring-hello-world
+Przerób podane modele z użyciem Spring IoC
